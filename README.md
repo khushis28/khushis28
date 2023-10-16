@@ -1,9 +1,8 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/khushis28/khushis28/assets/131535612/411f567c-8512-44e3-bdf8-b7fcef10b23d)
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">A full stack web developer, software developer and Open Source Contributor from India</h3>
-<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
 
 <p align="left"> <a href="https://twitter.com/khushisingh028" target="blank"><img src="https://img.shields.io/twitter/follow/khushisingh028?logo=twitter&style=for-the-badge" alt="khushisingh028" /></a> </p>
 
