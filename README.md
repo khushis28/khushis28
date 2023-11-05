@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">Full Stack Web Developer, Postman API Expert and Open Source Contributor from Lucknow, India</h3>
 
+<a href="https://app.daily.dev/khushis28"><img src="https://api.daily.dev/devcards/dfd8c449bf824d3fb66b7e33e0dc8172.png?r=kvj" width="400" alt="Khushi Singh's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
 
 <p align="left"> <a href="https://twitter.com/khushisingh028" target="blank"><img src="https://img.shields.io/twitter/follow/khushisingh028?logo=twitter&style=for-the-badge" alt="khushisingh028" /></a> </p>
