@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **khushiisingh100@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1BcDC0vzldK0cGGFctUepHDVB2GR67aR6/view?usp=drive_link)]((https://drive.google.com/file/d/1BcDC0vzldK0cGGFctUepHDVB2GR67aR6/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BcDC0vzldK0cGGFctUepHDVB2GR67aR6/view?usp=drive_link]
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/techsavvykhushi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-singh-531779236) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KhushiSingh028?t=Np9xJkqp7qSw-v-bGjFnBg&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@vibrantkhushi) 
