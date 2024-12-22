@@ -1,4 +1,5 @@
-![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/khushis28/khushis28/assets/131535612/411f567c-8512-44e3-bdf8-b7fcef10b23d)
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5]![github-banner](https://github.com/user-attachments/assets/233de7e7-3192-4a14-b19a-6bbb5cfa1ea6)
+
 
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">Full Stack Web Developer, Postman API Expert and Open Source Contributor from Lucknow, India</h3>
@@ -10,7 +11,7 @@
 
 # 💫 About Me:
 
-- 🌱 **I'm currently learning Data Structures in C++, Frontend Development**
+- 🌱 **I'm currently learning Data Structures in C++, Web Development**
 
 - 💬 Ask me about **Frontend Development, Version Control, Data Structures**
 
