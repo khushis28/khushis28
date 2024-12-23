@@ -33,8 +33,8 @@
 
 
 
-📊 **Profile Views:**  
-![Profile Views](https://hits.sh/khushis28.svg?style=for-the-badge&label=PROFILE+VIEWS&color=blue&logo=github)
+
+
 
 
 
