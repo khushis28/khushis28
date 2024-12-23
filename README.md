@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
-<h3 align="center">Full Stack Web Developer, Postman API Expert and Open Source Contributor from Lucknow, India</h3>
+<h3 align="center"Social Winter of Code Contributor, Social Summer of Code Co-ordinator, Front-end Web Developer, Postman API Expert and Open Source Contributor from Lucknow, India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
@@ -32,12 +32,3 @@
 
 ### 🔝 Top Contributed Repo
 [![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushis28&show_icons=true&theme=radical)](https://github.com/khushis28)
-
-
-
-
-
-
-
-
-
