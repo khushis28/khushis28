@@ -33,5 +33,5 @@
 
 
 ---
-![Profile Views](https://ProfileViews.sh/khushis28/README.md.svg)
+![Profile Views](https://hits.sh/khushis28/README.md.svg)
 
