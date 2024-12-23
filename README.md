@@ -39,6 +39,6 @@ I love to explore and learn about new domains and am currently looking for oppor
 - **Databases**: MongoDB, MySQL Server, Oracle
 - **Version Control**: Git/GitHub
 
-### Show some ❤️ by starring [https://camo.githubusercontent.com/9c67da3a95e77f7c404527ee465e5f47efde49c0765e1b0d6b14cf7348c90cfc/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067] my repositories!
+### Show some ❤️ by starring [![Star my repositories](https://camo.githubusercontent.com/9c67da3a95e77f7c404527ee465e5f47efde49c0765e1b0d6b14cf7348c90cfc/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067](https://github.com/yourusername) my repositories!
 
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/khushisingh2873/) or email me at [khushiisingh100@gmail.com](mailto:khushiisingh100@gmail.com).
