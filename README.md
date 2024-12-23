@@ -11,13 +11,10 @@
 
 # 💫 About Me:
 
-- 🌱 **I'm currently learning Data Structures in C++, Web Development**
+- 🌱 **I'm currently learning Data Structures, Full Stack Web Development, UI/UX**
 
 - 💬 Ask me about **Frontend Development, Version Control, Data Structures**
 
-- 📫 How to reach me **khushiisingh100@gmail.com**
-- 🌱 **I’m currently learning**: Data Structures, Full Stack Web Development, UI/UX
-- 💬 **Ask me about**: Web Development, Git/Github, C++, Version Control  
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/khushisingh2873/) or email me at [khushiisingh100@gmail.com](mailto:khushiisingh100@gmail.com).
 
 # 💻 Tech Stack:
