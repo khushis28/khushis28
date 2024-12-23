@@ -21,10 +21,11 @@ I love to explore and learn about new domains and am currently looking for oppor
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushis28&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Let's Connect 🤝
-- [Twitter]([https://twitter.com/Khushisingh028](https://x.com/KhushiSingh028))
-- [LinkedIn]([https://www.linkedin.com/in/khushisingh2873/)
+- [Twitter](https://x.com/KhushiSingh028)
+- [LinkedIn](https://www.linkedin.com/in/khushisingh2873/)
 - [Gmail](mailto:khushiisingh100@gmail.com)
-- [Medium]((https://medium.com/@khushis287))
+- [Medium](https://medium.com/@khushis287)
+
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=khushis28&theme=dracula)
@@ -42,5 +43,6 @@ I love to explore and learn about new domains and am currently looking for oppor
 ### Show some ❤️ by starring my repositories!
 
 
----
+
+
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/khushisingh2873/) or email me at [khushiisingh100@gmail.com](mailto:khushiisingh100@gmail.com).
