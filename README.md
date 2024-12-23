@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushis28&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[[[![trophy](https://github-profile-trophy.vercel.app/?username=khushis28&theme=dracula)]
+![trophy](https://github-profile-trophy.vercel.app/?username=khushis28&theme=dracula)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khushis28&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
