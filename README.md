@@ -29,8 +29,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=khushis28&theme=dracula)
 
 ### 🔝 Top Contributed Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushis28&layout=compact)
+
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khushis28&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://hits.sh/khushis28/README.md.svg)
+
