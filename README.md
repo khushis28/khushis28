@@ -34,6 +34,6 @@
 
 
 📊 **Profile Views:**  
-![Profile Views](https://hits.sh/khushis28.svg?style=for-the-badge&label=Visitors&color=blue)
+![Profile Views](https://img.shields.io/badge/Visitors-10K-blue?style=for-the-badge&logo=github)
 
 
