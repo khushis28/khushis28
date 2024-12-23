@@ -1,7 +1,7 @@
 ![github-banner](https://github.com/user-attachments/assets/233de7e7-3192-4a14-b19a-6bbb5cfa1ea6)
 
 
-<h1 align="center">Hi 👋, I'm Khushi Singh</h1>
+<h1 align="center">Hi 👋, I'm Khushi Singh from Lucknow, India</h1>
 <h3 align="center">SSOC Co-ordinator, Web Developer, Postman API Student Expert and Open Source Contributor</h3>
 
 
