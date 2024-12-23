@@ -42,4 +42,5 @@ I love to explore and learn about new domains and am currently looking for oppor
 ### Show some ❤️ by starring my repositories!
 
 
+---
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/khushisingh2873/) or email me at [khushiisingh100@gmail.com](mailto:khushiisingh100@gmail.com).
