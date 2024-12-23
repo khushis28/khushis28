@@ -29,6 +29,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=khushis28&theme=dracula)
 
 ### 🔝 Top Contributed Repo
+[![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushis28&show_icons=true&theme=radical)](https://github.com/khushis28)
 
 
 
