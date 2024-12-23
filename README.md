@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
-<h3 align="center">SSOC Co-ordinator, Front-end Web Developer, Postman API Student Expert and Open Source Contributor from Lucknow, India</h3>
+<h3 align="center">SSOC Co-ordinator, Web Developer, Postman API Student Expert and Open Source Contributor from Lucknow, India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
