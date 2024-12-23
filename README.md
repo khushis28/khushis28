@@ -32,6 +32,8 @@
 
 
 
----
-![Profile Views](https://hits.sh/khushis28/README.md.svg)
+
+📊 **Profile Views:**  
+![Profile Views](https://hits.sh/khushis28.svg?style=flat-square&label=Visitors&color=green)
+
 
