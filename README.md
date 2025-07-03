@@ -10,7 +10,7 @@
 
 Hi, I'm **Khushi Singh**!  
 I'm a Computer Applications Postgraduate(MCA), Tech Enthusiast, Front-end Web Developer, and an Open Source Contributor.  
-I love to explore and learn about new domains and am currently looking for opportunities in Software Development Engineer (SDE) and Front-end Development roles. 
+I love to explore and learn about new domains and am currently looking for opportunities in Software Development Engineer (SDE) and Web Development roles. 
 
 
 # 💻 Tech Stack:
