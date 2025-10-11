@@ -1,8 +1,8 @@
 ![github-banner](https://github.com/user-attachments/assets/233de7e7-3192-4a14-b19a-6bbb5cfa1ea6)
 
 
-<h1 align="center">नमस्ते Techies 👋</h1>
-<h3 align="center">SSOC Co-ordinator, Web Developer, Postman API Student Expert and Open Source Contributor</h3>
+<h1 align="center">नमस्ते People 👋</h1>
+<h3 align="center">Co-ordinator, Web Developer, Open Source Contributor</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
