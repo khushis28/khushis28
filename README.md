@@ -4,7 +4,7 @@
 <h1 align="center">नमस्ते People 👋</h1>
 <h3 align="center">Meet a Girl with Some sense of Code</></h3>
 <p align="center">
-<b> My pronouns: Co-ordinator, Web Developer, Open Source Contributor</b>
+<h3> My pronouns: Co-ordinator, Web Developer, Open Source Contributor</h3>
 </p>
 
 
