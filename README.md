@@ -2,8 +2,8 @@
 
 
 <h1 align="center">नमस्ते People 👋</h1>
-<h3 align="center">Meet a Girl with Some sense of Code 
-My pronouns -> Co-ordinator, Web Developer, Open Source Contributor</h3>
+<h3 align="center">Meet a Girl with Some sense of Code</> </h3>
+<h3>My pronouns -> Co-ordinator, Web Developer, Open Source Contributor</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushis28&label=Profile%20views&color=0e75b6&style=flat" alt="khushis28"/></p>
