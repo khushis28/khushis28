@@ -29,7 +29,7 @@ I love to explore and learn about new domains and am currently looking for oppor
 
 
 ### 🔝 Top Contributed Repo
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+[![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushis28&show_icons=true&theme=radical)](https://github.com/khushis28)
 
 
 ## 🛠️ Languages and Tools
