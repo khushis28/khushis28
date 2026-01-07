@@ -31,11 +31,11 @@ I love to explore and learn about new domains and am currently looking for oppor
 
 ## 🛠️ Languages and Tools
 
-- **Languages**: C, C++, JavaScript, SQL
-- **Web Development**: HTML5, CSS3, TailwindCSS, React.js
-- **Databases**: MongoDB, RDBMS
+- **Languages**: C, C++, JavaScript
+- **Web Development**: HTML5, CSS3, Tailwind CSS, React.js, Node.js, Express.js
+- **Databases**: MongoDB, SQL
 - **Version Control**: Git/GitHub
-- **Tools**: VS Code, Postman, IntelliJ Idea, IDLE, GitHub CoPilot, GitHub
+- **Tools**: VS Code, Postman, IDLE, GitHub CoPilot, GitHub
 
 ### Show some ❤️ by starring my repositories!
 
