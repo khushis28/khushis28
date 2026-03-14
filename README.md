@@ -10,8 +10,8 @@
 
 
 Hi, I'm **Khushi Singh**!  
-I'm a Computer Applications Postgraduate(MCA), Tech Enthusiast, Full Stack Web Developer, and an Open Source Contributor.  
-I love to explore and learn about new domains and am currently looking for opportunities in Software Development Engineer (SDE) and Web Development roles. 
+I'm a Computer Applications Postgraduate (MCA), a Full Stack Developer focused on Backend Systems & Scalable Web Applications, and an Open Source Contributor.
+I enjoy exploring Cloud and AI technologies, strengthening my Data Structures & Algorithms skills, and am currently looking for opportunities in Software Development Engineer (SDE) and Web Development roles.
 
 
 # 💻 Tech Stack:
