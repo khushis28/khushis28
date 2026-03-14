@@ -31,7 +31,7 @@ I love to explore and learn about new domains and am currently looking for oppor
 
 ## 🛠️ Languages and Tools
 
-- **Languages**: C, C++, JavaScript, SQL
+- **Languages**: C, C++, Python, JavaScript, SQL
 - **Web Development**: HTML5, CSS3, Tailwind CSS, React.js, Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Version Control**: Git/GitHub
